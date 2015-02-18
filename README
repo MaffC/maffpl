@@ -8,6 +8,7 @@ Maff::Common::Conf - wrapper and helper functions for working with YAML config f
 Maff::Common::IO - helper subroutines and other IO-related code
 Maff::Common::Net - various wrappers and subroutines for network-related code
 Maff::Common::OSX - various wrappers and subroutines for working with the darwin platform
+Maff::Common::Time - subroutines for helping with time-related work
 
 The following modules under Maff::Common are planned at some point but presently do not exist in any meaningful form:
 Maff::Common::System - subroutines and such for working with log files, processes, forking, exec-ing and whatnot
